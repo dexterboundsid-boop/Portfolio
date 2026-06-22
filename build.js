@@ -234,8 +234,8 @@ ${header()}
     </div>
     <div class="about-grid">
       <div class="about-text">
-        <p>I'm an industrial designer and fabricator based in Lafayette, Louisiana, recently graduated from the University of Louisiana at Lafayette with a minor in Moving Image Arts. My work moves between digital modeling and hands-on shop time — I like designs I can actually hold, test, and break before someone else does.</p>
-        <p>My capstone project, the Formlabs Mold 1, is a desktop injection molder concept built in Fusion 360. Outside of coursework, I run a small fabrication practice under the maker's mark <strong>DBds</strong>, covering everything from cosplay armor to film props to CNC-milled parts.</p>
+        <p>Hi! I'm an industrial designer based in Crossett, Arkansas, recently graduated from the University of Louisiana at Lafayette with a minor in Moving Image Arts. My work includes digital modeling and hands on fabrication</p>
+        <p>My capstone project, the Formlabs Mold, is a desktop injection molder concept inspired by the Formlabs line of products.</p>
       </div>
       <dl class="skills-block">
         <dt>CAD / Software</dt>
