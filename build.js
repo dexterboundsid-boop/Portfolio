@@ -165,7 +165,7 @@ const header = (depth = "") => `
 
 const footer = () => `
 <footer class="site-footer">
-  <div class="wrap">REV ${new Date().getFullYear()} — BUILT BY HAND, NOT TEMPLATE</div>
+  <div class="wrap">REV ${new Date().getFullYear()} — Created by Dexter Bounds with the use of ClaudeAI</div>
 </footer>`;
 
 function renderHomepage() {
