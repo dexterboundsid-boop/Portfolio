@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Formlabs Mold 1 — Dexter Bounds</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700&family=Inter:wght@400;500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="../index.html">DBDS<span class="mark">_</span>PORTFOLIO</a>
+    <nav class="nav">
+      <a href="../index.html#work">Work</a>
+      <a href="../index.html#about">About</a>
+      <a href="../index.html#contact">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="project-header">
+  <div class="wrap">
+    <a class="back-link" href="../index.html#work">&larr; Back to work</a>
+    <h1>Formlabs Mold 1</h1>
+    <dl class="project-meta">
+      <div class="tb-spec"><dt>Year</dt><dd>2026</dd></div>
+      <div class="tb-spec"><dt>Role</dt><dd>Designer / Capstone Project</dd></div>
+      <div class="tb-spec"><dt>Tools</dt><dd>Fusion 360, Formlabs 3L, SolidWorks</dd></div>
+    </dl>
+  </div>
+</section>
+
+<article class="project-body">
+  <h2>Overview</h2>
+<p>The Mold 1 is a concept desktop injection molder designed as a natural extension of Formlabs' existing product ecosystem — sitting alongside the Form 3 and Form 3L on a maker's bench. The goal was to take low-volume injection molding, normally locked behind industrial-scale equipment, and package it at desktop scale without losing the precision a real production tool needs.</p>
+<p>This was my capstone project for my Industrial Design degree at the University of Louisiana at Lafayette.</p>
+<h2>Design brief</h2>
+<p>Formlabs makes resin printers. Resin printing is great for prototypes, but it doesn't replicate the material properties or surface finish of an injection-molded part. The brief I set for myself: design a companion machine that lets a Formlabs user go from printed prototype to short-run injection-molded parts, in the same desk footprint, using the same design language.</p>
+<h2>Process</h2>
+<p>I started by reverse-engineering Formlabs' existing form language — rounded corners at a consistent radius, a specific vent pattern, their button and indicator placement logic — so the Mold 1 would read as a real product in their lineup rather than a generic injection molder with their logo slapped on.</p>
+<p>From there:</p>
+<ul>
+<li>Full CAD model built in Fusion 360, including internal mechanism geometry for the clamping unit and heated barrel</li>
+<li>Mock-up of the control interface and material loading workflow</li>
+<li>Physical scale prototype for proportion and ergonomics checks</li>
+<li>Manufacturing logic pass — which parts would realistically be injection molded, sheet metal, or machined in a real production run</li>
+</ul>
+<h2>Outcome</h2>
+<p>The final deliverable was a complete CAD package, rendered product shots, and a physical desktop-scale model demonstrating the clamping mechanism. The project let me work through the full arc of a product — research, mechanism design, surface language, and manufacturing feasibility — in a way that mirrors how I'd want to work in an actual model shop or design studio.</p>
+<p><strong>Tools used:</strong> Fusion 360 for primary modeling and mechanism design, SolidWorks for parts validation, hand tools and the UL Lafayette fab lab for the physical prototype.</p>
+
+</article>
+
+
+<footer class="site-footer">
+  <div class="wrap">REV 2026 — BUILT BY HAND, NOT TEMPLATE</div>
+</footer>
+</body>
+</html>
