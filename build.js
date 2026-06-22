@@ -165,7 +165,7 @@ const header = (depth = "") => `
 
 const footer = () => `
 <footer class="site-footer">
-  <div class="wrap">REV ${new Date().getFullYear()} — BUILT BY HAND, NOT TEMPLATE</div>
+  <div class="wrap">REV ${new Date().getFullYear()} — Built By ClaudeAI & Dexter Bounds</div>
 </footer>`;
 
 function renderHomepage() {
@@ -257,9 +257,9 @@ ${header()}
       <span class="section-rule"></span>
     </div>
     <div class="contact-row">
-      <a href="mailto:youremail@example.com">youremail@example.com</a>
-      <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
-      <a href="https://github.com/yourprofile">GitHub</a>
+      <a href="mailto:dexterboundsid@gmail.com">dexterboundsid@gmail.com</a>
+      <a href="https://linkedin.com/in/dexter-bounds">LinkedIn</a>
+      <a href="https://github.com/dexterboundsid-boop">GitHub</a>
     </div>
   </div>
 </section>
