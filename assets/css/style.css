@@ -5,9 +5,9 @@
 :root {
   --paper:    #FAFAF8;
   --ink:      #1A1A1A;
-  --workshop: #3D5A4C;
-  --rivet:    #C4541E;
-  --graphite: #8A8A82;
+  --workshop: #156082;
+  --rivet:    #156082;
+  --graphite: #797971;
   --hairline: #D8D6CE;
 
   --display: "Archivo", "Arial Narrow", sans-serif;
