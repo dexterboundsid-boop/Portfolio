@@ -158,6 +158,7 @@ const header = (depth = "") => `
     <nav class="nav">
       <a href="${depth}index.html#work">Work</a>
       <a href="${depth}index.html#about">About</a>
+      <a href="${depth}index.html#experience">Experience</a>
       <a href="${depth}index.html#contact">Contact</a>
     </nav>
   </div>
@@ -249,15 +250,54 @@ ${header()}
   </div>
 </section>
 
-<section class="section" id="contact">
+<section class="section" id="experience">
   <div class="wrap">
     <div class="section-head">
       <span class="section-num">03</span>
+      <h2 class="section-title">Experience</h2>
+      <span class="section-rule"></span>
+    </div>
+    <ul class="job-list">
+      <li class="job-entry">
+        <div class="job-head">
+          <h3 class="job-title">Fabrication Lab Technician</h3>
+          <span class="job-dates">Sep 2024 – May 2026</span>
+        </div>
+        <p class="job-company">University of Louisiana at Lafayette — Lafayette, LA</p>
+        <ul class="job-bullets">
+          <li>Maintained and operated professional-grade FDM and SLA 3D printers including Bambu P1S, Prusa MK2-MK3, Raise3D Pro2, and Formlabs Form 3 and 3L, ensuring consistent uptime and print quality.</li>
+          <li>Optimized student designs for additive manufacturing by providing guidance on slicing software including OrcaSlicer, IdeaMaker, and PreForm.</li>
+          <li>Trained co-workers, students, and faculty on machine operation, maintenance procedures, and design-for-manufacturing practices for FDM and resin-based SLA workflows.</li>
+          <li>Collaborated across teams to improve lab workflow efficiency and student learning outcomes.</li>
+        </ul>
+      </li>
+
+      <li class="job-entry">
+        <div class="job-head">
+          <h3 class="job-title">Team Member</h3>
+          <span class="job-dates">Sep 2022 – Aug 2024</span>
+        </div>
+        <p class="job-company">Chick-fil-A, Inc. — Lafayette, LA</p>
+        <ul class="job-bullets">
+          <li>Delivered consistent customer service by addressing needs with patience and a positive attitude.</li>
+          <li>Collaborated with kitchen staff to improve workflow efficiency and maintain restaurant operations.</li>
+          <li>Coordinated team tasks during high-volume shifts, demonstrating strong communication and organizational skills while maintaining a positive and productive team environment.</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</section>
+
+<section class="section" id="contact">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="section-num">04</span>
       <h2 class="section-title">Contact</h2>
       <span class="section-rule"></span>
     </div>
     <div class="contact-row">
       <a href="mailto:dexterboundsid@gmail.com">dexterboundsid@gmail.com</a>
+      <a href="https://www.behance.net/dexterbounds">Behance</a>
       <a href="https://www.linkedin.com/in/dexter-bounds/">LinkedIn</a>
       <a href="https://github.com/dexterboundsid-boop">GitHub</a>
       <a href="https://www.instagram.com/dex_bounds/">Instagram</a>
